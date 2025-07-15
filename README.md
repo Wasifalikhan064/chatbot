@@ -13,7 +13,7 @@
 
 3.  🧠 **Ai Powered Editor**:
      user can prompt the following and get the code dispalyed at ediotr and previewed at right side and can manually customized the code if needed.
-       ![Image](https://github.com/Wasifalikhan064/chatbot/blob/main/client/public/preview.PNG "Image")
+       ![Image](https://github.com/Wasifalikhan064/chatbot/blob/main/client/public/prompt.PNG "Image")
 
 4.  💾 **Code Sharing,Editing,Download,Saving options**:
    user can now share the code with any one and can downlaod the code in the form of a html files
@@ -31,7 +31,7 @@
 
 7. 🎨  **Responsiveness**:
      Designed a clean, responsive UI elements via Shadcn  with Tailwind CSS, ensuring optimal experience across devices.
-
+     ![Image](https://github.com/Wasifalikhan064/chatbot/blob/main/client/public/responsive.PNG "Image")
 ---
 
 ## 🧰 Tech Stack
