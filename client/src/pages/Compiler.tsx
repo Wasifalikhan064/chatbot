@@ -106,7 +106,7 @@ const handlePromptSubmit = async () => {
     </div>
     <div className="relative w-full p-2 bg-black">
   <Textarea
-    placeholder="Type your prompt..."
+    placeholder="Only generates html css js code"
     value={input}
     onChange={(e) => setInput(e.target.value)}
     onKeyDown={(e) => {
